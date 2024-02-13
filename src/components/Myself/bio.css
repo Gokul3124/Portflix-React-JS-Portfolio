@@ -1,0 +1,40 @@
+/* .Me, .me-photo {
+    height: 100%;
+    width: 50%;
+} */
+
+.Me-photo{
+    height: 400px;
+    padding-top: 20px;
+}
+
+.me-main {
+    background-color: rgb(65, 41, 41);
+    color: white;
+    width: 100%;
+    height: 500px;
+    display: flex;
+    padding-left: 300px;
+    padding-top: 40px;
+}
+
+
+.Me {
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding: 80px 10px;
+}
+
+.Me p {
+    font-size: small;
+    color: rgb(255, 150, 150);
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    padding-left: 50px;
+}
+
+.Me h1,h2,h3{
+    padding-left: 50px;
+}
